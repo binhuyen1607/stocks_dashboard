@@ -1,1 +1,1 @@
-# stocks_dashboard
+# Stocks Dashboard
